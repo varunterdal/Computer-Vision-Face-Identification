@@ -142,9 +142,6 @@ cat-face-identification/
 **Title:**  
 **Cat Face Identification Using Classical Computer Vision Techniques**
 
-**Conference:**  
-**IEEE ITHREECTCON 2026** *(Accepted)*
-
 This research highlights the continued relevance of classical computer vision methods as a strong foundation for modern vision systems.
 
 ---
