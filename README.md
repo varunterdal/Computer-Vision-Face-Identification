@@ -151,11 +151,12 @@ This research highlights the continued relevance of classical computer vision me
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cat-face-identification.git
-````
+```
+```
 
 2. Install dependencies:
 
-   ```bash
+    ```bash
    pip install -r requirements.txt
    ```
 
